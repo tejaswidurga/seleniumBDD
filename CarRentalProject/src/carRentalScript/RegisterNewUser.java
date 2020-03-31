@@ -71,6 +71,7 @@ public class RegisterNewUser {
 		//Click on Sign UP Button
 		indexPage.signUpButton().click();
 		log.info("Clicked on Sign Up Button");
+		System.out.println("Clicked on sign up button");
 		
 		//Verify the Alert Message
 		String expectedAlertMessage = "Registration successfull. Now you can login";
