@@ -1,0 +1,47 @@
+12:03:31.989 [main] INFO  carRentalScript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+12:03:32.056 [main] INFO  carRentalScript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+12:03:32.294 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Login / Register Button
+12:03:32.841 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Login / Register Button
+12:03:33.435 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Link
+12:03:34.057 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Link
+12:03:34.286 [main] INFO  carRentalScript.RegisterNewUser - Entered Full Name in Full Name Text Box
+12:03:34.798 [main] INFO  carRentalScript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+12:03:35.069 [main] INFO  carRentalScript.RegisterNewUser - Entered Full Name in Full Name Text Box
+12:03:35.164 [main] INFO  carRentalScript.RegisterNewUser - Entered Email Address in Email Address Text Box
+12:03:35.391 [main] INFO  carRentalScript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+12:03:35.469 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Password Text Box
+12:03:35.744 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Confirm Password Text Box
+12:03:35.831 [main] INFO  carRentalScript.RegisterNewUser - Entered Email Address in Email Address Text Box
+12:03:35.897 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Button
+12:03:36.276 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Password Text Box
+12:03:36.561 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Confirm Password Text Box
+12:03:36.676 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Button
+14:47:15.422 [main] INFO  carRentalScript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+14:47:15.648 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Login / Register Button
+14:47:16.591 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Link
+14:47:17.175 [main] INFO  carRentalScript.RegisterNewUser - Entered Full Name in Full Name Text Box
+14:47:17.448 [main] INFO  carRentalScript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+14:47:17.712 [main] INFO  carRentalScript.RegisterNewUser - Entered Email Address in Email Address Text Box
+14:47:17.969 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Password Text Box
+14:47:18.165 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Confirm Password Text Box
+14:47:18.272 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Button
+14:48:34.478 [main] INFO  carRentalScript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+14:48:34.681 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Login / Register Button
+14:48:35.473 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Link
+14:48:35.743 [main] INFO  carRentalScript.RegisterNewUser - Entered Full Name in Full Name Text Box
+14:48:35.911 [main] INFO  carRentalScript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+14:48:36.120 [main] INFO  carRentalScript.RegisterNewUser - Entered Email Address in Email Address Text Box
+14:48:36.285 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Password Text Box
+14:48:36.421 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Confirm Password Text Box
+14:48:36.727 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Button
+14:48:36.740 [main] INFO  carRentalScript.RegisterNewUser - Successful Registration Alert Message is Verified Successfully
+14:48:36.752 [main] INFO  carRentalScript.RegisterNewUser - **************** Ending Regiser New User Test Case *****************
+14:49:13.134 [main] INFO  carRentalScript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+14:49:13.350 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Login / Register Button
+14:49:14.135 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Link
+14:49:14.415 [main] INFO  carRentalScript.RegisterNewUser - Entered Full Name in Full Name Text Box
+14:49:14.594 [main] INFO  carRentalScript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+14:49:14.795 [main] INFO  carRentalScript.RegisterNewUser - Entered Email Address in Email Address Text Box
+14:49:14.966 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Password Text Box
+14:49:15.103 [main] INFO  carRentalScript.RegisterNewUser - Entered Password in Confirm Password Text Box
+14:49:15.185 [main] INFO  carRentalScript.RegisterNewUser - Clicked on Sign Up Button
